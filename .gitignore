@@ -1,0 +1,63 @@
+# ---------------------------------------------------------------------------
+# macOS
+# ---------------------------------------------------------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# ---------------------------------------------------------------------------
+# Xcode — user-specific / generated (should never be committed)
+# ---------------------------------------------------------------------------
+## User settings & state
+xcuserdata/
+*.xcuserstate
+*.xcuserdatad
+
+## Build products
+build/
+DerivedData/
+*.moved-aside
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.hmap
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# ---------------------------------------------------------------------------
+# Swift Package Manager
+# ---------------------------------------------------------------------------
+.build/
+.swiftpm/
+# Package.resolved is kept on purpose (locks dependency versions)
+
+# ---------------------------------------------------------------------------
+# CocoaPods / Carthage (not used here, kept for safety)
+# ---------------------------------------------------------------------------
+Pods/
+Carthage/Build/
+
+# ---------------------------------------------------------------------------
+# Certificats & clés privées — chacun génère les siens (voir ATVRemote/SETUP.md)
+# NE JAMAIS committer : ce sont des clés privées / identités.
+# ---------------------------------------------------------------------------
+*.p12
+*.pem
+*.der
+*.key
+*.mobileprovision
+*.cer
+cert.der
+cert.p12
+cert.pem
+key.pem
