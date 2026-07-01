@@ -58,4 +58,4 @@ Construit sur [odyshewroman/AndroidTVRemoteControl](https://github.com/odyshewro
 
 ## 📄 Licence
 
-Projet personnel, fourni tel quel, sans garantie. Ajoute une licence (MIT recommandé) si tu souhaites clarifier les droits de réutilisation.
+Projet personnel, fourni tel quel, sans garantie. Licence MIT.
